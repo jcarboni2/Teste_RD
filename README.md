@@ -5,10 +5,7 @@ Getting Started
 
 * The feature validated was https://staging.rdstation.com.br/nova-segmentacao
 
-* The covered tests are validating important scenarios. The difficult to find
-static attributes spent a lot of time, unfortunately I did not have time to
-create more scenarios. But I expect to present the skills and logic desired in
-the activity.
+* The covered tests are validating important scenarios.
 
 ------------------------------------------------------------------------------
 
