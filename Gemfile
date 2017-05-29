@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+gem 'cucumber', '2.4.0'
+gem 'capybara', '2.14.0'
+gem 'selenium-webdriver', '3.4.0'
+gem 'page-object', '2.1.1'
+gem 'rspec', '3.6.0'
+gem 'site_prism', '2.9'
+gem 'poltergeist', '1.15.0'
